@@ -1,0 +1,31 @@
+.content {
+  width: 700px;
+  float: left;
+}
+.sidebar {
+  width: 300px;
+  float: right;
+  background-color: #ff9900;
+  color: white;
+  padding: 10px;
+  height: 55vh;
+}
+.sidebar h3 {
+  text-align: center;
+}
+
+.first-pair {
+  float: left;
+}
+
+.first-pair img {
+  margin: 5px
+}
+
+.second-pair {
+  float: left;
+}
+
+.second-pair img {
+  margin: 5px
+}
