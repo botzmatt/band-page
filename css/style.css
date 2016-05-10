@@ -5,9 +5,11 @@
 .sidebar {
   width: 300px;
   float: right;
-  background-color: #ff9900;
+  background-color: steelblue;
   color: white;
-  padding: 10px;
+  border: 2px solid darkslateblue;
+  padding: 5px;
+  margin: 10px;
   height: 55vh;
 }
 .sidebar h3 {
@@ -28,4 +30,8 @@
 
 .second-pair img {
   margin: 5px
+}
+
+img {
+  padding: 5px;
 }
